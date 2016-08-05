@@ -3,7 +3,7 @@
  
 Sun Kiss Facts is an Alexa Skill. 
  
- ![Sun Kiss Facts](img/sunkiss200.png)
+ ![Sun Kiss Facts](img/sunkiss200.jpg)
  
 Sun Kiss gives facts about kissing. Sun Kiss may not be suitable for all ages
  
